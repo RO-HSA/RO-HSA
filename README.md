@@ -1,4 +1,4 @@
-<h3>Olá! Eu sou o Robert Santos.</h3>
+<h1>Olá! Eu sou o Robert Santos.</h1>
 <p>Desenvolvedor Full Stack Python</p>
 <p>Apaixonado por tecnologia desde pequeno, dando tudo de si para transicionar de carreira. Originalmente contador, minha verdadeira vocação é, como sempre imaginei, resolver problemas e desenvolver softwares. <br> Atualmente fazendo um curso profissionalizante pela EBAC - Escola Britânica de Artes Criativas e Tecnologia e constanmente aprendendo novas tecnologias.</p>
 
@@ -8,9 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RO-HSA&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,6 +19,7 @@
 </div>
   
   ##
+  <h2></h2>
   
   <div>
   <a href="https://www.linkedin.com/in/robert-da-hora-santos-6a747116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
