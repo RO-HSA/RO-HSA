@@ -11,7 +11,7 @@ Possui 1 ano de experiência em implementação de sistemas web, atuando tanto n
 </div>
 
 <h2>Tecnologias</h2>
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -21,14 +21,17 @@ Possui 1 ano de experiência em implementação de sistemas web, atuando tanto n
 </div>
 
 <h2>Projetos Relevantes</h2>
- <div style="display: inline_block">
+ <div>
    <ul>
-     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">https://github.com/RO-HSA/dtlabs-challenge</a> - Solução desenvolvida para o desafio técnico da DTLabs, em React</li>
+     <li><a href="https://github.com/RO-HSA/dtlabs-challenge">Desafio técnico dtLabs</a> - Solução desenvolvida para o desafio técnico da DTLabs, em React e Typescript</li>
      <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a> - Solução vencedora do Hackathon do 1º Hackathon da Bichinhos da TI</li>
    </ul>
  </div>
 
-<h2>Vamos nos conectar</h2>  
+<h2>Contatos</h2>  
 <div>
-  <a href="https://www.linkedin.com/in/robert-da-hora-santos-6a747116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <ul>
+    <li><a href="https://www.linkedin.com/in/robert-da-hora-santos-6a747116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
+    <li><b>E-mail: </b>robertdahora@gmail.com</li>
+  </ul>
 </div>
