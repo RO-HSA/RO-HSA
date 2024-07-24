@@ -1,6 +1,8 @@
 <h1>Olá! Eu sou o Robert Santos.</h1>
 <p>Desenvolvedor Full Stack Python</p>
-<p>Apaixonado por tecnologia desde pequeno, dando tudo de si para transicionar de carreira. Originalmente contador, minha verdadeira vocação é, como sempre imaginei, resolver problemas e desenvolver softwares. <br> Atualmente fazendo um curso profissionalizante pela EBAC - Escola Britânica de Artes Criativas e Tecnologia e constanmente aprendendo novas tecnologias.</p>
+<p>Profissional entusiasta de tecnologia e apaixonado por resolver problemas complexos, com perfil comunicativo e voltado para resolução de problemas, formado em Ciências Contábeis e graduando em Análise e Desenvolvimento de Sistemas em processo de transição de carreira. Atualmente se especializando em Desenvolvimento Full Stack através do curso de Desenvolvimento Full Stack Python da EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em 2024.
+
+Possui 1 ano de experiência em implementação de sistemas web, atuando tanto no front end quanto back end em projetos profissionais e acadêmicos. Habilidades em <strong>HTML, CSS, JavaScript, TypeScript, Angular, React, Next.js, Context API, Redux, TailwindCSS, Styled Components, SQL, Bootstrap, Sass, SQL e PostgreSQL, e conhecimento em Python, Django e Git.</strong></p>
 
 <div align="center">
   <a href="https://github.com/RO-HSA">
@@ -21,7 +23,8 @@
 <h2>Projetos Relevantes</h2>
  <div style="display: inline_block">
    <ul>
-     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a></li>
+     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">https://github.com/RO-HSA/dtlabs-challenge</a> - Solução desenvolvida para o desafio técnico da DTLabs, em React</li>
+     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a> - Solução vencedora do Hackathon do 1º Hackathon da Bichinhos da TI</li>
    </ul>
  </div>
 
