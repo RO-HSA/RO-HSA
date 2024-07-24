@@ -19,9 +19,12 @@
 </div>
 
 <h2>Projetos Relevantes</h2>
-<div style="display: inline_block">
-  *[Hackathon Bichinhos](https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta)
-</div>  
+ <div style="display: inline_block">
+   <ul>
+     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a></li>
+   </ul>
+ </div>
+
 <h2>Vamos nos conectar</h2>  
 <div>
   <a href="https://www.linkedin.com/in/robert-da-hora-santos-6a747116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
