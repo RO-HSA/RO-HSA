@@ -24,7 +24,7 @@ Possui 1 ano de experiência em implementação de sistemas web, atuando tanto n
  <div>
    <ul>
      <li><a href="https://github.com/RO-HSA/dtlabs-challenge">Desafio técnico dtLabs</a> - Solução desenvolvida para o desafio técnico da DTLabs, em React e Typescript</li>
-     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a> - Solução vencedora do Hackathon do 1º Hackathon da Bichinhos da TI</li>
+     <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a> - Solução vencedora do Hackathon do 1º Hackathon da Bichinhos da TI, utilizando Next.js e Typescript</li>
    </ul>
  </div>
 
