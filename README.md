@@ -23,6 +23,7 @@ Possui 1 ano de experiência em implementação de sistemas web, atuando tanto n
 <h2>Projetos Relevantes</h2>
  <div>
    <ul>
+     <li><a href="https://github.com/RO-HSA/streaming-interactions">Streaming Interactions</a> - Extensão para o ecossistema Chromium (Chrome, Opera, Edge etc...) que adiciona uma sidebar em sites de streamings para habilitar a interação de usuários através de comentários. O projeto está rodando em produção. </li>
      <li><a href="https://github.com/RO-HSA/dtlabs-challenge">Desafio técnico dtLabs</a> - Solução desenvolvida para o desafio técnico da DTLabs, em React e Typescript</li>
      <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Hackathon Bichinhos da TI</a> - Solução vencedora do Hackathon do 1º Hackathon da Bichinhos da TI, utilizando Next.js e Typescript</li>
    </ul>
