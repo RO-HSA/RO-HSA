@@ -31,7 +31,7 @@ Possui 1 ano de experiência em implementação de sistemas web, atuando tanto n
 <h2>Contatos</h2>  
 <div>
   <ul>
-    <li><a href="https://www.linkedin.com/in/robert-da-hora-santos-6a747116a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
+    <li><a href="https://www.linkedin.com/in/robertsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
     <li><b>E-mail: </b>robertdahora@gmail.com</li>
   </ul>
 </div>
