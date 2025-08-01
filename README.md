@@ -1,5 +1,4 @@
 <h1>Hi! I'm Robert Santos.</h1>
-<p>Desenvolvedor Full Stack Python</p>
 <p>I’m a Full Stack Software Engineer passionate about technology and driven to solve real-world problems with smart and scalable solutions. With hands-on experience in challenging projects—from full stack web applications to published browser extensions—I stand out for combining analytical thinking, continuous curiosity, and a strong commitment to delivering value.
 
 I’ve worked across the entire development lifecycle, building with technologies like React, Next.js, Angular, TypeScript, Node.js, NestJS, PostgreSQL, and Docker. I actively engage in open-source initiatives, technical challenges, and personal projects, always with a focus on growth and improvement.</strong></p>
