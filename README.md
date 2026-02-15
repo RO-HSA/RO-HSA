@@ -30,7 +30,7 @@ I’ve worked across the entire development lifecycle, building with technologie
 <h2>Contacts</h2>  
 <div>
   <ul>
-    <li><a href="https://www.linkedin.com/in/robertsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
+    <!-- <li><a href="https://www.linkedin.com/in/robertsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li> -->
     <li><b>Email: </b>robertdahora@gmail.com</li>
   </ul>
 </div>
