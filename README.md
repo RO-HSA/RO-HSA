@@ -21,13 +21,14 @@ I’ve worked across the entire development lifecycle, building with technologie
 <h2>Relevant Projects</h2>
  <div>
    <ul>
+     <li><a href="https://github.com/RO-HSA/kioku">Kioku</a> A library manager for services for services like <a href="https://myanimelist.net">MyAnimeList</a> and <a href="https://anilist.co">AniList</a> with some auto-detect functionalities.</li>
      <li><a href="https://github.com/RO-HSA/streaming-interactions">Streaming Interactions</a> - Extension for the Chromium ecosystem (Chrome, Opera, Edge, etc.) that adds a sidebar to streaming websites to enable user interaction through comments. The project is currently running in production. </li>
      <li><a href="https://github.com/RO-HSA/dtlabs-challenge">dtLabs Technical Challenge</a> - Solution developed for DTLabs' technical challenge, using React and TypeScript.</li>
      <li><a href="https://github.com/Super-Patos-Hackaton/frontend/tree/development_beta">Bichinhos da TI Hackathon</a> - Winning solution of the 1st Bichinhos da TI Hackathon, built with Next.js and TypeScript.</li>
    </ul>
  </div>
 
-<h2>Contacts</h2>  
+<h2>Contacts</h2>
 <div>
   <ul>
     <!-- <li><a href="https://www.linkedin.com/in/robertsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li> -->
